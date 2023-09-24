@@ -10,7 +10,7 @@ proses training untuk gambar yang dimasukkan secara manual, seperti gambar yang 
 ## image_auto
 proses training untuk gambar hasil capture dari vidio, proses pada script
 ## Database
-Terhubung ke database untuk menyimpan informasi identitas dan menampilkan informasi pada proses deteksi wajah. **ID sebagai foreign key**
+Terhubung ke database untuk menyimpan informasi identitas dan menampilkan informasi pada proses deteksi wajah. **ID sebagai foreign key.**
 
 ![image](https://github.com/adiwira09/face_detection/assets/61595879/863aa9df-6aa2-44fa-a7e6-6b2829193176)
 
